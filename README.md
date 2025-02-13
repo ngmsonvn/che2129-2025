@@ -1,2 +1,2 @@
-# che2129-2025
-Materials for the CHE2129: Advanced Analytical Chemistry course
+# CHE2129: Advanced Analytical Chemistry (2025)
+
